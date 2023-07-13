@@ -1,0 +1,86 @@
+.search-bar {
+  text-align: center;
+  padding: 20px;
+}
+.button-search {
+  padding: 20px;
+  border-color: #ced4da;
+  border-radius: 4px;
+  border-width: 1px;
+  border-style: solid;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.button-current {
+  margin-bottom: 20px;
+}
+
+.precipitation {
+  line-height: 6px;
+  color: grey;
+}
+
+.wind {
+  line-height: 6px;
+  color: grey;
+}
+
+.sun {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.bangor-current {
+  text-align: right;
+}
+
+.degs-c-f {
+  font-size: small;
+}
+
+.degs-f {
+  color: blue;
+}
+
+.current-temp-percipitation {
+  padding: 30px;
+  columns: 2;
+}
+
+.city-header {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.card-container {
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-body {
+  border-color: #ced4da;
+  border-radius: 4px;
+  border-width: 1px;
+  border-style: solid;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.container-forecast {
+  padding: 20px;
+  text-align: center;
+  max-width: 800px;
+}
+
+.day {
+  font-size: large;
+}
+
+.forecast-emoji {
+  font-size: x-large;
+}
+
+.forecast-temp {
+  font-size: small;
+}
